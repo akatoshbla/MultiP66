@@ -1,0 +1,11 @@
+D:\Projects\P66_Multiple\P66_Multiple\bin\Debug\P66_Multiple.exe
+D:\Projects\P66_Multiple\P66_Multiple\bin\Debug\P66_Multiple.pdb
+D:\Projects\P66_Multiple\P66_Multiple\bin\Debug\P66_Multiple.xml
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.vbprojAssemblyReference.cache
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.Form1.resources
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.Resources.resources
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.vbproj.GenerateResource.cache
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.exe
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.xml
+D:\Projects\P66_Multiple\P66_Multiple\obj\x86\Debug\P66_Multiple.pdb
+D:\Projects\P66_Multiple\P66_Multiple\bin\Debug\Resources\pwimg.gif
